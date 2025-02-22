@@ -4,7 +4,7 @@
 With a background in space quality assurance, I bring a detail-oriented and precision-driven approach to software testing. My experience in ensuring the highest standards in mission-critical environments has strengthened my ability to assess risk, validate compliance, and enhance overall quality. I am passionate about expanding my expertise in software quality assurance, eager to explore new testing methodologies, tools, and best practices to drive reliability and efficiency. With a strong commitment to continuous learning and adaptability, I am excited to contribute to and grow within the ever-evolving landscape of software testing.
 
 ## 🔍 About This Repository  
-Welcome! This repository showcases my **experience in software testing and quality assurance**. Here, I explore various **software testing methodologies, automation tools, and best practices**  
+This repository showcases my **experience in software testing and quality assurance**. Here, I explore various **software testing methodologies, automation tools, and best practices**  
 
 ## 📂 Featured Projects  
 - 🔹 **[Automated_Testing](https://github.com/fiszym/Automated_Testing_Playwright.git)** – Test Automation with Playwright + JS/TS
