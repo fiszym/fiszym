@@ -10,7 +10,8 @@ This repository showcases my **experience in software testing and quality assura
 
 ## 📂 Featured Projects  
 
-- 🔹 **[Automated_Testing](https://github.com/fiszym/Automated_Testing_Playwright.git)** – Test Automation with Playwright + JS/TS
+- 🔹 **[Playwright_Automated_Testing](https://github.com/fiszym/Playwright_Automated_Testing.git)** – GUI Test Automation with Playwright + JS/TS
+- 🔹 **[Pytest_Automated_Testing](https://github.com/fiszym/Pytest_Automated_Testing)** – Test Automation with Pytest (Python)
 - 🔹 **[API_Testing](https://github.com/fiszym/API_Testing.git)** – API Testing with Postman + Swagger
 - 🔹 **[Manual Testing](https://github.com/fiszym/Manual_Testing.git)** – Exploratory test for practice test website. Example documentation: Test plan + Test Cases + Incident List 
 
